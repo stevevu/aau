@@ -3,7 +3,7 @@ to see how form is rendred on our staging site.  We are using the Tailwind CSS l
 
 [https://open-meal-frontend-staging.herokuapp.com/diner/sign-up](https://open-meal-frontend-staging.herokuapp.com/diner/sign-up)
 
-1. Front end code (/front_end folder)
+## 1. Front end code (/front_end folder)
 
 - [index.tsx](https://github.com/stevevu/aau/blob/master/front_end/index.tsx)
   - entry point that wraps the form in our layout (nav, background, footer)
@@ -37,7 +37,7 @@ to see how form is rendred on our staging site.  We are using the Tailwind CSS l
     or API calls
   - we use axios to make the remote calls
 
-2. Back end code, Python/Flask (/back_end folder)
+## 2. Back end code, Python/Flask (/back_end folder)
   - [app.py](https://github.com/stevevu/aau/blob/master/back_end/app.py)
     - the route handler
 
