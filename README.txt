@@ -46,3 +46,7 @@ https://open-meal-frontend-staging.herokuapp.com/diner/sign-up
 
   - pginstance
     - does the actual database (model) operations via SQL
+
+  - test_diner
+    - test script to validate that code related to adding a diner works before 
+      deploying
