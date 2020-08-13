@@ -1,5 +1,5 @@
 I could not include every single file but here are the relevant ones that should be good enough
-to see how form is rendred on our staging site.  We are using the Tailwind CSS library for styling.
+to see how form is rendered on our staging site.  We are using the Tailwind CSS library for styling.
 
 [https://open-meal-frontend-staging.herokuapp.com/diner/sign-up](https://open-meal-frontend-staging.herokuapp.com/diner/sign-up)
 
